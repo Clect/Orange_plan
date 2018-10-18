@@ -1,0 +1,1 @@
+webpackJsonp([6],{CgFv:function(e,n,t){e.exports=t.p+"images/404.png"},WL6d:function(e,n){},exPW:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a=t("GiK3"),c=t.n(a),i=t("WL6d"),r=(t.n(i),function(){return c.a.createElement("div",{className:"img-container"},c.a.createElement("img",{alt:"404",src:t("CgFv")}))});n.default=r}});

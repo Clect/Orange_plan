@@ -1,0 +1,1 @@
+// CopyWebpackPlugin 里面写死了server路径，删除此文件夹会导致项目无法启动。
