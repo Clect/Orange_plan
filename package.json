@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "ejs": "^2.6.1",
     "glob": "^7.1.3",
     "koa": "^2.5.0",
@@ -17,6 +18,8 @@
     "koa-log4": "^2.3.0",
     "koa-route": "^3.2.0",
     "koa-router": "^7.4.0",
-    "koa-static": "^5.0.0"
+    "koa-static": "^5.0.0",
+    "leancloud-storage": "^3.10.0",
+    "leanengine": "^3.3.2"
   }
 }
